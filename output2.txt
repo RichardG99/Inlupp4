@@ -1,0 +1,20 @@
+1.0
+null
+1.0
+All Variables:{cos=1.0, sin=1.0}
+Error: Expected an expression
+All Variables:{}
+Answer = 42.0
+All Variables:{y=Answer = 42.0, x=Answer = 42.0}
+ans = 1.0
+Error: Expected an expression
+Error: Expected an expression
+hsdilfhufghu
+All Variables:{y=Answer = 42.0, x=Answer = 42.0}
+1.0
+Error: ans cannot be redefined
+ans = 1.0
+Error: ans cannot be redefined
+-1.0
+Error: cannot redefine Quit
+All Variables:{Ans=1.0, Bert=-1.0, y=Answer = 42.0, x=Answer = 42.0}

@@ -1,0 +1,9 @@
+1 + 2 + 3
+Sin = 1 = 2
+(1 + 2) / 3
+3 / (1 + 2)
+Vars = 3
+Vars / 2
+Vars / Vars
+2 = Sin
+Quit

@@ -1,0 +1,23 @@
+2.0
+3.0
+2.0
+4.0
+-2.0
+expected ')'
+x
+2.0 * x
+3.0
+6.0
+12.0
+Error: Unexpected '+'
+2.0
+2.0
+Error: Numbers cannot be used as a variable name
+Error: ans cannot be redefined
+4.0
+ans = 4.0
+Variable is reassigned: 
+3.0 = x
+5.0
+Right hand side is constant or named constant:
+ 2.0 = pi = 3.141592653589793

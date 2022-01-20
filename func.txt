@@ -1,0 +1,6 @@
+function factorial(n)
+n - 1 = m
+if n > 1 {factorial(m) * n} else {1}
+end
+factorial(1)
+factorial(2)

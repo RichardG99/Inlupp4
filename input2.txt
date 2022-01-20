@@ -1,0 +1,23 @@
+1 = sin
+sin = Sin
+sin = cos
+Vars
+
+Clear
+Vars
+Answer = x = y
+Vars
+ans
+
+
+hsdilfhufghu
+Vars
+1 = Ans
+2 = ans
+ans = Bert
+Bert = ans
+-Bert = Bert
+3 = Quit
+Vars
+Clear
+Quit
